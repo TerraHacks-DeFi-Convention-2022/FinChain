@@ -1,0 +1,1 @@
+/Users/onyxpantherz/Coding\ Playground/HelloWorld/TerraDeFi/FinChain/SmartContracts/target/debug/SmartContracts: /Users/onyxpantherz/Coding\ Playground/HelloWorld/TerraDeFi/FinChain/SmartContracts/src/main.rs
