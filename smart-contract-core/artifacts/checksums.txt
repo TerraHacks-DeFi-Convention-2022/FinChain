@@ -1,0 +1,1 @@
+b8a77fd17e5f18929867d999bb10a6d86d99e39cc5811e88b8e671bd14d4e886  smart_contract_core.wasm
