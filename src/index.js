@@ -2,7 +2,7 @@ import { MnemonicKey, MsgSend, LCDClient } from "@terra-money/terra.js";
 
 const terra = new LCDClient({
     URL: 'https://localhost:1317',
-    chainID: 'localterra',
+    chainID: 'columbus-5',
 });
 
 const mk = new MnemonicKey({
